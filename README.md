@@ -3,6 +3,10 @@
 ## Introduction
 Brainfuck++ is an esoteric programming language inspired by Brainfuck but with enhancements and extensions to facilitate writing and understanding of programs.
 
+## Installation Guide
+- Download Windows [Release](https://github.com/lizardwine/brainfuckpp/raw/master/release/win-release.zip)
+- Download Linux [Release](https://github.com/lizardwine/brainfuckpp/raw/master/release/linux-release.zip)
+
 ## Key Features
 - **Expanded Instructions:** Introduces new instructions and functionalities to increase expressiveness and programming capability.
 - **Improved Readability:** Changes have been made to make programs written in Brainfuck++ more readable and easier to understand.
@@ -68,9 +72,6 @@ Description of the new instructions in Brainfuck++
 !        # Call the sum function
 :        # Print the result, which is 5
 ```
-
-## Installation Guide
-download the [latest release](https://github.com/lizardwine/brainfuckpp/)
 
 ## Additional Examples
 ### Using Standard Library
