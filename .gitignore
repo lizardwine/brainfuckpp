@@ -1,0 +1,9 @@
+.vscode/
+experiment/
+brainfuck
+brainfuck.exe
+main_content.bf
+main.bf
+package-linux/
+package-win/
+package.sh
